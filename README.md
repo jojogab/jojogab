@@ -1,5 +1,5 @@
 # 💫 About Me:
-🥸 19 anos, Aracaju - SE, trabalho como desenvolverdor Fullstack na ADEMA<br>
+🥸 19 anos, Aracaju - SE, trabalho como desenvolvedor FullStack na ADEMA<br>
 
 
 ## 🌐 Socials:

@@ -45,13 +45,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jojogab&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=jojogab&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <div align="left">
   <a href="https://open.spotify.com/user/s8sx3dmnwv6c2asx8dgrv2nv6">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=s8sx3dmnwv6c2asx8dgrv2nv6&count=1&unique=false" alt="Spotify recently played"  />
